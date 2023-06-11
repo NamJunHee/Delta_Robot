@@ -1,0 +1,4 @@
+../Core/Src/motor_control.c:30:5:Profile	16	static
+../Core/Src/motor_control.c:47:8:Position_Controller	24	static
+../Core/Src/motor_control.c:79:8:Velocity_Controller	24	static
+../Core/Src/motor_control.c:112:6:Init_PID	4	static

@@ -1,0 +1,8 @@
+../Core/Src/absolute_encoder.c:18:6:spiAbsoluteEncoderInitialize	40	static
+../Core/Src/absolute_encoder.c:35:6:getPosSPI1	24	static
+../Core/Src/absolute_encoder.c:73:6:getPosSPI2	24	static
+../Core/Src/absolute_encoder.c:111:6:getPosSPI3	24	static
+../Core/Src/absolute_encoder.c:149:6:getPosSPI4	24	static
+../Core/Src/absolute_encoder.c:187:6:getPosSPI5	24	static
+../Core/Src/absolute_encoder.c:225:6:getPosSPI6	24	static
+../Core/Src/absolute_encoder.c:264:6:SetInitialPosSPI	24	static
